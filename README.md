@@ -1,2 +1,2 @@
-My first readme
-this is the first oroject working with alx 
+My first readme,
+this is the first project working with alx 
